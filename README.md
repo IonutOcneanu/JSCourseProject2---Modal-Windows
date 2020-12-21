@@ -1,4 +1,2 @@
 # JSCourseProject2
-
-The second project of the Udemy Course. A simple page which shows how a modal window works.
-Again, I checked how it worked and tried it my self. I tried to complicate it a bit and made the buttons display 3 different modals.
+ Third project from the Udemy Course. The Pig dice game. Once again, I choose to do it from scratch in order to practice HTML/CSS and, of course, JS, before checking the course's solutions.
